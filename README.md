@@ -100,7 +100,7 @@ npx phase2cli contribute
 
  ![Ekran görüntüsü 2024-04-21 172228](https://github.com/CoinHuntersTR/RISC-Zero/assets/111747226/89d70091-0ac5-4e94-9177-fd5a70e7b843)
 
-> Bu adımlardan sonra aşağıdaki gibi bir sonuç alıyoruz. Gördüğünüz gibi 96 gün gibi bir süre vermiş ve 2870 kişi var önümde o nedenle ara ara kontrol etmek gerekiyor.
+> Bu adımlardan sonra aşağıdaki gibi bir sonuç alıyoruz. Gördüğünüz gibi 94 gün gibi bir süre vermiş ve 2870 kişi var önümde o nedenle ara ara kontrol etmek gerekiyor.
 
 ![Ekran görüntüsü 2024-04-21 172243](https://github.com/CoinHuntersTR/RISC-Zero/assets/111747226/e12a7621-5c4f-4eab-bad4-8cb0c48e63ca)
 
